@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev-tests"
+  site-url: "https://matheusdelg.github.io/nbdev-tests"
+  description: "A nbdev testing repository just for fun"
+  repo-branch: master
+  repo-url: "https://github.com/matheusdelg/nbdev-tests"
